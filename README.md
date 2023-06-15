@@ -4,3 +4,9 @@
 
 ## Live Demo of "Laptop Price Prediction Project"
 👉 **https://i-am-dinesh-laptop-price-prediction-system-app-9764ps.streamlit.app/**
+
+## Personal Portfolio"
+👉 **https://dinesh-sakpal.netlify.app/**
+
+## WordPress's Personal Portfolio"
+👉 **http://dineshkaportfolio.epizy.com/**
