@@ -5,8 +5,3 @@
 ## Live Demo of "Laptop Price Prediction Project"
 👉 **https://i-am-dinesh-laptop-price-prediction-system-app-9764ps.streamlit.app/**
 
-## Personal Portfolio"
-👉 **https://imgs.search.brave.com/jL7IwrnCz-8tnVEh316iVLBkn-Rw3AFm1AGyG6-eV1c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2Fk/aW5nLmlvL2Fzc2V0/cy9pbWcvYy9sb2Fk/ZXIvZ29sZGVuLnN2/Zw.svg**
-
-## WordPress's Personal Portfolio"
-👉 **https://imgs.search.brave.com/jL7IwrnCz-8tnVEh316iVLBkn-Rw3AFm1AGyG6-eV1c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2Fk/aW5nLmlvL2Fzc2V0/cy9pbWcvYy9sb2Fk/ZXIvZ29sZGVuLnN2/Zw.svg**
